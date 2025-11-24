@@ -1,1 +1,1 @@
-My To-Do List is a task management app that allows users to easily add tasks, set their priority, and sort them by input order, description, completion, or priority. The app lets users track progress, clear the list, and stay organized with a simple interface.
+
